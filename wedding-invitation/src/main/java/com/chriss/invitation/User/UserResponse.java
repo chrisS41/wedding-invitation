@@ -1,4 +1,4 @@
-package com.chriss.invitation;
+package com.chriss.invitation.User;
 
 import lombok.Getter;
 

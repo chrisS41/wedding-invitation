@@ -1,4 +1,4 @@
-package com.chriss.invitation;
+package com.chriss.invitation.User;
 
 import jakarta.validation.constraints.NotBlank;
 import lombok.Setter;
